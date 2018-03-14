@@ -1,0 +1,12 @@
+c:\WChat\WChat\Testador\bin\Debug\Testador.exe.config
+c:\WChat\WChat\Testador\bin\Debug\Testador.exe
+c:\WChat\WChat\Testador\bin\Debug\Testador.pdb
+c:\WChat\WChat\Testador\obj\Debug\Testador.csprojResolveAssemblyReference.cache
+c:\WChat\WChat\Testador\obj\Debug\Testador.exe
+c:\WChat\WChat\Testador\obj\Debug\Testador.pdb
+c:\WChat\WChat\Testador\bin\Debug\EntityFramework.dll
+c:\WChat\WChat\Testador\bin\Debug\EntityFramework.SqlServer.dll
+c:\WChat\WChat\Testador\bin\Debug\WChat.dll
+c:\WChat\WChat\Testador\bin\Debug\WChat.pdb
+c:\WChat\WChat\Testador\bin\Debug\EntityFramework.xml
+c:\WChat\WChat\Testador\bin\Debug\EntityFramework.SqlServer.xml

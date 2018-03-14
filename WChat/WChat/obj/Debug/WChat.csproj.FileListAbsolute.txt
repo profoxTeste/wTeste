@@ -1,0 +1,10 @@
+c:\WChat\WChat\WChat\obj\Debug\WChat.csprojResolveAssemblyReference.cache
+c:\WChat\WChat\WChat\bin\Debug\WChat.pdb
+c:\WChat\WChat\WChat\bin\Debug\EntityFramework.dll
+c:\WChat\WChat\WChat\bin\Debug\EntityFramework.SqlServer.dll
+c:\WChat\WChat\WChat\bin\Debug\EntityFramework.xml
+c:\WChat\WChat\WChat\bin\Debug\EntityFramework.SqlServer.xml
+c:\WChat\WChat\WChat\obj\Debug\WChat.pdb
+c:\WChat\WChat\WChat\bin\Debug\WChat.exe.config
+c:\WChat\WChat\WChat\bin\Debug\WChat.exe
+c:\WChat\WChat\WChat\obj\Debug\WChat.exe
